@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <p align="center">
-  <a href="linkedin.com/in/geovana-stefani-55aa0b215/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="Geovana's LinkedIn" alt="LinkedIn Badge" /></a>
+  <a href="www.linkedin.com/in/geovana-stefani-55aa0b215/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="Geovana's LinkedIn" alt="LinkedIn Badge" /></a>
   <a href="mailto:geovana.bezerra@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Geovana's E-mail" alt="E-mail Badge" /></a>
   <a href="https://www.instagram.com/ge_stefani_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Geovana's Instagram" alt="Instagram Badge" /></a>
   
@@ -23,7 +21,7 @@
   ## 🏫 Educação
   - 📚 **Técnica em Informática** (2018 - 2021)\
   - 📚 **Engenharia de Computação** (2021 --)\
-     📍 **Instituto Federal da Paraíba** - Campina Grande, Brasil
+    📍 **Instituto Federal da Paraíba** - Campina Grande, Brasil
 </details>
 
 
