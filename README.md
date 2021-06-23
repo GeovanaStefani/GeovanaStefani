@@ -19,8 +19,9 @@
   <summary>📃 Resume</summary>
   
   ## 🏫 Educação
-  - 📚 **Técnica em Informática** (2018 - 2021)\
-  - 📚 **Engenharia de Computação** (2021 --)\
+  - 📚 **Técnica em Informática** (2018 - 2021)
+    📍 **Instituto Federal da Paraíba** - Campina Grande, Brasil
+  - 📚 **Engenharia de Computação** (2021 --)
     📍 **Instituto Federal da Paraíba** - Campina Grande, Brasil
 </details>
 
