@@ -20,9 +20,9 @@
   
   ## 🏫 Educação
   - 📚 **Técnica em Informática** (2018 - 2021)
-    📍 **Instituto Federal da Paraíba** - Campina Grande, Brasil
+   , **Instituto Federal da Paraíba** - Campina Grande, Brasil
   - 📚 **Engenharia de Computação** (2021 --)
-    📍 **Instituto Federal da Paraíba** - Campina Grande, Brasil
+  , **Instituto Federal da Paraíba** - Campina Grande, Brasil
 </details>
 
 
