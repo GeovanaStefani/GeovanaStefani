@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://br.linkedin.com/in/geovana-stefani-55aa0b215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="Geovana's LinkedIn" alt="LinkedIn Badge" /></a>
-  <a href="mailto:geovana.bezerra@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Geovana's E-mail" alt="E-mail Badge" /></a>
-  <a href="https://www.instagram.com/ge_stefani_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Geovana's Instagram" alt="Instagram Badge" /></a>
-  
-</p>
-
 <p align="justify">
   Olá, sou Geovana Stefani, Técnica em Informática formada pelo IFPB. Atualmente, estou estudando Engenharia de Computação na mesma instituição. Apesar de gostar de desenvolver softwares e serviços web, minha maior paixão é a robótica. Pretendo me especializar no futuro.
 </p>
@@ -24,6 +17,13 @@
   - 📚 **Engenharia de Computação** (2021 --)
   | **Instituto Federal da Paraíba** - Campina Grande, Brasil
 </details>
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/geovana-stefani-55aa0b215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="Geovana's LinkedIn" alt="LinkedIn Badge" /></a>
+  <a href="mailto:geovana.bezerra@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Geovana's E-mail" alt="E-mail Badge" /></a>
+  <a href="https://www.instagram.com/ge_stefani_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Geovana's Instagram" alt="Instagram Badge" /></a>
+  
+</p>
 
 
 
