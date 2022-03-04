@@ -1,5 +1,7 @@
+## Olá,
+
 <p align="justify">
-  Olá, sou Geovana Stefani, Técnica em Informática formada pelo IFPB. Atualmente, estou estudando Engenharia de Computação na mesma instituição. Apesar de gostar de desenvolver softwares e serviços web, minha maior paixão é a robótica. Pretendo me especializar no futuro.
+  Sou Geovana Stefani, Técnica em Informática formada pelo IFPB. Atualmente, estou estudando Engenharia de Computação na mesma instituição. Apesar de gostar de desenvolver softwares e serviços web, minha maior paixão é a robótica. Pretendo me especializar no futuro.
 </p>
 
 - 📫 Como entrar em contato: [geovana.bezerra@academico.ifpb.edu.br](mailto:geovana.bezerra@academico.ifpb.edu.br)
