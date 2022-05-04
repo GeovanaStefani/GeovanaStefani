@@ -7,7 +7,7 @@
 - 📫 Como entrar em contato: [geovana.bezerra@academico.ifpb.edu.br](mailto:geovana.bezerra@academico.ifpb.edu.br)
 
 <p align="center">
-  <img src="//github-readme-stats.vercel.app/api/top-langs/?username=GeovanaStefani&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Geovana's Top Langs" alt="Geovana's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaStefani&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Geovana's Top Langs" alt="Geovana's Top Langs" />
 </p>
 
 <details>
