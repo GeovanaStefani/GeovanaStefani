@@ -1,7 +1,7 @@
 ## Olá,
 
 <p align="justify">
-  Sou Geovana Stefani, Técnica em Informática formada pelo IFPB. Estudando Engenharia de Computação na mesma instituição. Atualmente fazendo intercâmbio de Ciência de dados na UNiversidade de Coimbra
+  Sou Geovana Stefani, Técnica em Informática formada pelo IFPB. Estudando Engenharia de Computação na mesma instituição. Atualmente fazendo intercâmbio de Ciência de dados na Universidade de Coimbra
 </p>
 
 - 📫 Como entrar em contato: [geovana.bezerra@academico.ifpb.edu.br](mailto:geovana.bezerra@academico.ifpb.edu.br)
